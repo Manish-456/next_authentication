@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+input{
+ @apply p-2 rounded-md text-black focus:outline-none text-sm w-full
+}
